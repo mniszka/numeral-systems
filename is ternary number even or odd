@@ -1,0 +1,6 @@
+/*check whether a ternary number is even or odd
+eg. 
+12(3) = 5(10) -> odd number
+110(3) = 6(10) -> even number
+*/
+
